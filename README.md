@@ -1,1 +1,1 @@
-# Restaurant-Name-Generator
+Restaurant-Name-Generator
